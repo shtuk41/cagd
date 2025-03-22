@@ -1,7 +1,7 @@
 # Algorithms from Curves and Surfaces CAGD
 Algorithms from Curves and Surfaces CAGD implemented for visualization and just fun.  
 
-I used Curves and Surfaces for CAGD by Gerald Farin.
+I used Curves and Surfaces for CAGD by Gerald Farin book.
 
 Screenshots:
 
